@@ -1,0 +1,15 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+    - id: trailing-whitespace
+      exclude: 'mimo_audio_tokenizer/assets/.*'
+  - repo: https://github.com/pre-commit/mirrors-yapf
+    rev: 'v0.32.0'
+    hooks:
+    - id: yapf
+      additional_dependencies: [toml]
+  - repo: https://github.com/pycqa/flake8
+    rev: '3.8.2'
+    hooks:
+    - id: flake8

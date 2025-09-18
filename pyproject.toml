@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mimo_audio_tokenizer"
+version = "0.1.0"
+authors = [{ name = "LLM-Core-Team Xiaomi" }]
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+readme = "README.md"
+description = "A unified tokenizer that is capable of both extracting semantic information and enabling high-fidelity audio reconstruction."
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "torch>=2.6.0",
+    "torchaudio>=2.6.0",
+    "tqdm",
+    "safetensors",
+    "packaging",
+    "numpy",
+    "toml",
+]
+
+[project.optional-dependencies]
+flash = ["flash-attn"]
+all = ["flash-attn"]
+
+[project.scripts]
+mimo_audio_tokenizer = "mimo_audio_tokenizer.cli:main"
+
+[project.urls]
+Homepage="https://github.com/XiaomiMiMo/MiMo-Audio-Tokenizer"
+
+[tool.setuptools]
+packages = ["mimo_audio_tokenizer"]
+
+[tool.yapf]
+based_on_style = "pep8"
+allow_multiline_lambdas = true
+column_limit = 120
+split_complex_comprehension = false
+coalesce_brackets = true
