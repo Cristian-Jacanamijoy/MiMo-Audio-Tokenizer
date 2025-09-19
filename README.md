@@ -23,7 +23,7 @@
 
 ```sh
 git clone https://github.com/XiaomiMiMo/MiMo-Audio-Tokenizer
-cd mimo-audio-tokenizer
+cd MiMo-Audio-Tokenizer
 # Install base dependencies
 pip install -e .
 # Install flash-attn
@@ -42,6 +42,7 @@ git clone https://huggingface.co/XiaomiMiMo/MiMo-Audio-Tokenizer
 ### 0. Quick start
 
 ```py
+import torchaudio
 import mimo_audio_tokenizer
 
 # one-line model init
